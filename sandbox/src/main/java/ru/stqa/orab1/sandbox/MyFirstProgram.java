@@ -3,7 +3,7 @@ package ru.stqa.orab1.sandbox;
 public class MyFirstProgram {
 	public static void main (String[] args) {
 		hello ("world");
-    hello ("world");
+    hello ("Alexandra Bocharova");
 
     double l = 5;
     System.out.println("Площадь квадрата со стороной " + l + " = " + area(l));
